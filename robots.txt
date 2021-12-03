@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://localementbon.com/sitemap.xml
